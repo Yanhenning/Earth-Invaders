@@ -1,0 +1,60 @@
+
+phoneMoves.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+down up
+  rotate: false
+  xy: 1, 1
+  size: 780, 570
+  orig: 780, 570
+  offset: 0, 0
+  index: -1
+
+phoneMoves2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rotate anticlockwize
+  rotate: false
+  xy: 1, 1
+  size: 780, 570
+  orig: 780, 570
+  offset: 0, 0
+  index: -1
+
+phoneMoves3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rotate clockwize
+  rotate: false
+  xy: 1, 1
+  size: 780, 570
+  orig: 780, 570
+  offset: 0, 0
+  index: -1
+
+phoneMoves4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+stand phone
+  rotate: false
+  xy: 1, 1
+  size: 780, 570
+  orig: 780, 570
+  offset: 0, 0
+  index: -1
+
+phoneMoves5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+up down
+  rotate: false
+  xy: 1, 1
+  size: 780, 570
+  orig: 780, 570
+  offset: 0, 0
+  index: -1

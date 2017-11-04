@@ -1,0 +1,19 @@
+
+explosions.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+laserBlue
+  rotate: false
+  xy: 1, 1
+  size: 48, 46
+  orig: 48, 46
+  offset: 0, 0
+  index: 1
+laserBlue
+  rotate: false
+  xy: 51, 1
+  size: 48, 46
+  orig: 48, 46
+  offset: 0, 0
+  index: 2

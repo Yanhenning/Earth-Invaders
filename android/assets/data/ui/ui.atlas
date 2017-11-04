@@ -1,0 +1,201 @@
+
+ui.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+buttonBlue
+  rotate: false
+  xy: 1, 85
+  size: 222, 39
+  orig: 222, 39
+  offset: 0, 0
+  index: -1
+buttonGreen
+  rotate: false
+  xy: 1, 46
+  size: 222, 39
+  orig: 222, 39
+  offset: 0, 0
+  index: -1
+buttonRed
+  rotate: false
+  xy: 225, 85
+  size: 222, 39
+  orig: 222, 39
+  offset: 0, 0
+  index: -1
+buttonYellow
+  rotate: false
+  xy: 1, 7
+  size: 222, 39
+  orig: 222, 39
+  offset: 0, 0
+  index: -1
+cursor
+  rotate: false
+  xy: 225, 52
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+playerLife2_blue
+  rotate: false
+  xy: 449, 98
+  size: 37, 26
+  orig: 37, 26
+  offset: 0, 0
+  index: -1
+playerLife2_green
+  rotate: false
+  xy: 257, 59
+  size: 37, 26
+  orig: 37, 26
+  offset: 0, 0
+  index: -1
+playerLife2_orange
+  rotate: false
+  xy: 296, 59
+  size: 37, 26
+  orig: 37, 26
+  offset: 0, 0
+  index: -1
+playerLife2_red
+  rotate: false
+  xy: 335, 59
+  size: 37, 26
+  orig: 37, 26
+  offset: 0, 0
+  index: -1
+playerLife1_blue
+  rotate: false
+  xy: 374, 59
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+playerLife1_green
+  rotate: false
+  xy: 409, 59
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+playerLife1_orange
+  rotate: false
+  xy: 225, 26
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+playerLife1_red
+  rotate: false
+  xy: 225, 0
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+playerLife3_blue
+  rotate: false
+  xy: 260, 33
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+playerLife3_green
+  rotate: false
+  xy: 260, 7
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+playerLife3_orange
+  rotate: false
+  xy: 294, 33
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+playerLife3_red
+  rotate: false
+  xy: 294, 7
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+numeral0
+  rotate: false
+  xy: 488, 105
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+numeral1
+  rotate: false
+  xy: 328, 40
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+numeral2
+  rotate: false
+  xy: 328, 21
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+numeral3
+  rotate: false
+  xy: 349, 40
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+numeral4
+  rotate: false
+  xy: 349, 21
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+numeral5
+  rotate: false
+  xy: 370, 40
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+numeral6
+  rotate: false
+  xy: 370, 21
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+numeral7
+  rotate: false
+  xy: 391, 40
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+numeral8
+  rotate: false
+  xy: 391, 21
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+numeral9
+  rotate: false
+  xy: 412, 40
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+numeralX
+  rotate: false
+  xy: 412, 23
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,523 @@
+
+ships.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+playerspaceShips7
+  rotate: false
+  xy: 1, 870
+  size: 172, 151
+  orig: 172, 151
+  offset: 0, 0
+  index: -1
+spaceShips
+  rotate: false
+  xy: 1, 717
+  size: 172, 151
+  orig: 172, 151
+  offset: 0, 0
+  index: 7
+playerspaceShips6
+  rotate: false
+  xy: 175, 873
+  size: 94, 148
+  orig: 94, 148
+  offset: 0, 0
+  index: -1
+spaceShips
+  rotate: false
+  xy: 1, 567
+  size: 94, 148
+  orig: 94, 148
+  offset: 0, 0
+  index: 6
+playerspaceShips4
+  rotate: false
+  xy: 271, 913
+  size: 126, 108
+  orig: 126, 108
+  offset: 0, 0
+  index: -1
+spaceShips
+  rotate: false
+  xy: 399, 913
+  size: 126, 108
+  orig: 126, 108
+  offset: 0, 0
+  index: 4
+playerspaceShips5
+  rotate: false
+  xy: 527, 937
+  size: 136, 84
+  orig: 136, 84
+  offset: 0, 0
+  index: -1
+spaceShips
+  rotate: false
+  xy: 665, 937
+  size: 136, 84
+  orig: 136, 84
+  offset: 0, 0
+  index: 5
+playerspaceShips9
+  rotate: false
+  xy: 803, 939
+  size: 114, 82
+  orig: 114, 82
+  offset: 0, 0
+  index: -1
+enemyBlack2
+  rotate: false
+  xy: 919, 937
+  size: 104, 84
+  orig: 104, 84
+  offset: 0, 0
+  index: -1
+playerspaceShips3
+  rotate: false
+  xy: 175, 777
+  size: 100, 94
+  orig: 100, 94
+  offset: 0, 0
+  index: -1
+spaceShips
+  rotate: false
+  xy: 1, 471
+  size: 100, 94
+  orig: 100, 94
+  offset: 0, 0
+  index: 3
+enemyBlack3
+  rotate: false
+  xy: 1, 385
+  size: 103, 84
+  orig: 103, 84
+  offset: 0, 0
+  index: -1
+enemyBlue2
+  rotate: false
+  xy: 1, 299
+  size: 104, 84
+  orig: 104, 84
+  offset: 0, 0
+  index: -1
+enemyGreen2
+  rotate: false
+  xy: 1, 213
+  size: 104, 84
+  orig: 104, 84
+  offset: 0, 0
+  index: -1
+enemyRed2
+  rotate: false
+  xy: 1, 127
+  size: 104, 84
+  orig: 104, 84
+  offset: 0, 0
+  index: -1
+playerShip2_black
+  rotate: false
+  xy: 1, 41
+  size: 104, 84
+  orig: 104, 84
+  offset: 0, 0
+  index: -1
+ufoBlue
+  rotate: false
+  xy: 97, 624
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+spaceShips
+  rotate: false
+  xy: 277, 829
+  size: 114, 82
+  orig: 114, 82
+  offset: 0, 0
+  index: 9
+playerShip2_blue
+  rotate: false
+  xy: 393, 836
+  size: 112, 75
+  orig: 112, 75
+  offset: 0, 0
+  index: -1
+playerShip2_green
+  rotate: false
+  xy: 277, 752
+  size: 112, 75
+  orig: 112, 75
+  offset: 0, 0
+  index: -1
+playerShip2_orange
+  rotate: false
+  xy: 527, 860
+  size: 112, 75
+  orig: 112, 75
+  offset: 0, 0
+  index: -1
+playerShip2_red
+  rotate: false
+  xy: 641, 860
+  size: 112, 75
+  orig: 112, 75
+  offset: 0, 0
+  index: -1
+enemyBlack1
+  rotate: false
+  xy: 755, 851
+  size: 93, 84
+  orig: 93, 84
+  offset: 0, 0
+  index: -1
+playerShip2_darkblue
+  rotate: false
+  xy: 850, 851
+  size: 104, 84
+  orig: 104, 84
+  offset: 0, 0
+  index: -1
+ufoGreen
+  rotate: false
+  xy: 103, 531
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+ufoRed
+  rotate: false
+  xy: 106, 438
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+ufoYellow
+  rotate: false
+  xy: 107, 345
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+enemyBlack5
+  rotate: false
+  xy: 107, 259
+  size: 97, 84
+  orig: 97, 84
+  offset: 0, 0
+  index: -1
+enemyBlue3
+  rotate: false
+  xy: 107, 173
+  size: 103, 84
+  orig: 103, 84
+  offset: 0, 0
+  index: -1
+enemyGreen3
+  rotate: false
+  xy: 107, 87
+  size: 103, 84
+  orig: 103, 84
+  offset: 0, 0
+  index: -1
+enemyRed3
+  rotate: false
+  xy: 107, 1
+  size: 103, 84
+  orig: 103, 84
+  offset: 0, 0
+  index: -1
+playerspaceShips1
+  rotate: false
+  xy: 393, 754
+  size: 106, 80
+  orig: 106, 80
+  offset: 0, 0
+  index: -1
+spaceShips
+  rotate: false
+  xy: 507, 778
+  size: 106, 80
+  orig: 106, 80
+  offset: 0, 0
+  index: 1
+playerShip2_darkgreen
+  rotate: false
+  xy: 615, 774
+  size: 104, 84
+  orig: 104, 84
+  offset: 0, 0
+  index: -1
+playerShip2_darkorange
+  rotate: false
+  xy: 721, 765
+  size: 104, 84
+  orig: 104, 84
+  offset: 0, 0
+  index: -1
+playerShip3_black
+  rotate: false
+  xy: 827, 765
+  size: 103, 84
+  orig: 103, 84
+  offset: 0, 0
+  index: -1
+playerShip3_darkblue
+  rotate: false
+  xy: 501, 692
+  size: 103, 84
+  orig: 103, 84
+  offset: 0, 0
+  index: -1
+playerShip3_darkgreen
+  rotate: false
+  xy: 606, 688
+  size: 103, 84
+  orig: 103, 84
+  offset: 0, 0
+  index: -1
+playerShip3_darkorange
+  rotate: false
+  xy: 711, 679
+  size: 103, 84
+  orig: 103, 84
+  offset: 0, 0
+  index: -1
+playerspaceShips8
+  rotate: false
+  xy: 816, 681
+  size: 100, 82
+  orig: 100, 82
+  offset: 0, 0
+  index: -1
+enemyBlack4
+  rotate: false
+  xy: 190, 691
+  size: 82, 84
+  orig: 82, 84
+  offset: 0, 0
+  index: -1
+playerspaceShips2
+  rotate: false
+  xy: 274, 676
+  size: 101, 74
+  orig: 101, 74
+  offset: 0, 0
+  index: -1
+enemyBlue4
+  rotate: false
+  xy: 932, 765
+  size: 82, 84
+  orig: 82, 84
+  offset: 0, 0
+  index: -1
+enemyBlue5
+  rotate: false
+  xy: 918, 679
+  size: 97, 84
+  orig: 97, 84
+  offset: 0, 0
+  index: -1
+spaceShips
+  rotate: false
+  xy: 816, 597
+  size: 100, 82
+  orig: 100, 82
+  offset: 0, 0
+  index: 8
+enemyGreen5
+  rotate: false
+  xy: 918, 593
+  size: 97, 84
+  orig: 97, 84
+  offset: 0, 0
+  index: -1
+spaceShips
+  rotate: false
+  xy: 391, 678
+  size: 101, 74
+  orig: 101, 74
+  offset: 0, 0
+  index: 2
+playerShip1_blue
+  rotate: false
+  xy: 494, 615
+  size: 99, 75
+  orig: 99, 75
+  offset: 0, 0
+  index: -1
+playerShip1_green
+  rotate: false
+  xy: 595, 611
+  size: 99, 75
+  orig: 99, 75
+  offset: 0, 0
+  index: -1
+playerShip1_orange
+  rotate: false
+  xy: 696, 602
+  size: 99, 75
+  orig: 99, 75
+  offset: 0, 0
+  index: -1
+playerShip1_red
+  rotate: false
+  xy: 377, 601
+  size: 99, 75
+  orig: 99, 75
+  offset: 0, 0
+  index: -1
+playerShip3_blue
+  rotate: false
+  xy: 478, 538
+  size: 98, 75
+  orig: 98, 75
+  offset: 0, 0
+  index: -1
+playerShip3_green
+  rotate: false
+  xy: 578, 534
+  size: 98, 75
+  orig: 98, 75
+  offset: 0, 0
+  index: -1
+playerShip3_orange
+  rotate: false
+  xy: 678, 525
+  size: 98, 75
+  orig: 98, 75
+  offset: 0, 0
+  index: -1
+playerShip3_red
+  rotate: false
+  xy: 778, 520
+  size: 98, 75
+  orig: 98, 75
+  offset: 0, 0
+  index: -1
+enemyRed5
+  rotate: false
+  xy: 878, 507
+  size: 97, 84
+  orig: 97, 84
+  offset: 0, 0
+  index: -1
+enemyBlue1
+  rotate: false
+  xy: 199, 439
+  size: 93, 84
+  orig: 93, 84
+  offset: 0, 0
+  index: -1
+enemyGreen1
+  rotate: false
+  xy: 200, 353
+  size: 93, 84
+  orig: 93, 84
+  offset: 0, 0
+  index: -1
+enemyRed1
+  rotate: false
+  xy: 206, 267
+  size: 93, 84
+  orig: 93, 84
+  offset: 0, 0
+  index: -1
+playerShip1_black
+  rotate: false
+  xy: 212, 181
+  size: 93, 84
+  orig: 93, 84
+  offset: 0, 0
+  index: -1
+playerShip1_darkblue
+  rotate: false
+  xy: 212, 95
+  size: 93, 84
+  orig: 93, 84
+  offset: 0, 0
+  index: -1
+playerShip1_darkgreen
+  rotate: false
+  xy: 212, 9
+  size: 93, 84
+  orig: 93, 84
+  offset: 0, 0
+  index: -1
+enemyGreen4
+  rotate: false
+  xy: 294, 439
+  size: 82, 84
+  orig: 82, 84
+  offset: 0, 0
+  index: -1
+enemyRed4
+  rotate: false
+  xy: 295, 353
+  size: 82, 84
+  orig: 82, 84
+  offset: 0, 0
+  index: -1
+playerShip1_darkorange
+  rotate: false
+  xy: 301, 267
+  size: 93, 84
+  orig: 93, 84
+  offset: 0, 0
+  index: -1
+playerShip5_black
+  rotate: false
+  xy: 307, 181
+  size: 97, 84
+  orig: 97, 84
+  offset: 0, 0
+  index: -1
+playerShip5_darkblue
+  rotate: false
+  xy: 307, 95
+  size: 97, 84
+  orig: 97, 84
+  offset: 0, 0
+  index: -1
+playerShip5_darkgreen
+  rotate: false
+  xy: 307, 9
+  size: 97, 84
+  orig: 97, 84
+  offset: 0, 0
+  index: -1
+playerShip5_darkorange
+  rotate: false
+  xy: 379, 515
+  size: 97, 84
+  orig: 97, 84
+  offset: 0, 0
+  index: -1
+playerShip4_black
+  rotate: false
+  xy: 478, 452
+  size: 82, 84
+  orig: 82, 84
+  offset: 0, 0
+  index: -1
+playerShip4_darkblue
+  rotate: false
+  xy: 562, 448
+  size: 82, 84
+  orig: 82, 84
+  offset: 0, 0
+  index: -1
+playerShip4_darkgreen
+  rotate: false
+  xy: 646, 439
+  size: 82, 84
+  orig: 82, 84
+  offset: 0, 0
+  index: -1
+playerShip4_darkorange
+  rotate: false
+  xy: 730, 434
+  size: 82, 84
+  orig: 82, 84
+  offset: 0, 0
+  index: -1

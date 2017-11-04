@@ -1,0 +1,173 @@
+
+meteors.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+spaceMeteors3
+  rotate: false
+  xy: 1, 283
+  size: 214, 227
+  orig: 214, 227
+  offset: 0, 0
+  index: -1
+spaceMeteors4
+  rotate: false
+  xy: 217, 289
+  size: 220, 221
+  orig: 220, 221
+  offset: 0, 0
+  index: -1
+spaceMeteors2
+  rotate: false
+  xy: 1, 63
+  size: 212, 218
+  orig: 212, 218
+  offset: 0, 0
+  index: -1
+spaceMeteors1
+  rotate: false
+  xy: 439, 299
+  size: 215, 211
+  orig: 215, 211
+  offset: 0, 0
+  index: -1
+meteorBrown_big2
+  rotate: false
+  xy: 656, 412
+  size: 120, 98
+  orig: 120, 98
+  offset: 0, 0
+  index: -1
+meteorGrey_big2
+  rotate: false
+  xy: 656, 312
+  size: 120, 98
+  orig: 120, 98
+  offset: 0, 0
+  index: -1
+meteorBrown_big4
+  rotate: false
+  xy: 778, 414
+  size: 98, 96
+  orig: 98, 96
+  offset: 0, 0
+  index: -1
+meteorGrey_big4
+  rotate: false
+  xy: 778, 316
+  size: 98, 96
+  orig: 98, 96
+  offset: 0, 0
+  index: -1
+meteorBrown_big1
+  rotate: false
+  xy: 878, 426
+  size: 101, 84
+  orig: 101, 84
+  offset: 0, 0
+  index: -1
+meteorGrey_big1
+  rotate: false
+  xy: 878, 340
+  size: 101, 84
+  orig: 101, 84
+  offset: 0, 0
+  index: -1
+meteorBrown_big3
+  rotate: false
+  xy: 878, 256
+  size: 89, 82
+  orig: 89, 82
+  offset: 0, 0
+  index: -1
+meteorGrey_big3
+  rotate: false
+  xy: 656, 228
+  size: 89, 82
+  orig: 89, 82
+  offset: 0, 0
+  index: -1
+meteorBrown_med1
+  rotate: false
+  xy: 1, 18
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+meteorGrey_med1
+  rotate: false
+  xy: 46, 18
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+meteorBrown_med3
+  rotate: false
+  xy: 91, 21
+  size: 45, 40
+  orig: 45, 40
+  offset: 0, 0
+  index: -1
+meteorGrey_med2
+  rotate: false
+  xy: 138, 21
+  size: 45, 40
+  orig: 45, 40
+  offset: 0, 0
+  index: -1
+meteorBrown_small1
+  rotate: false
+  xy: 981, 482
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+meteorGrey_small1
+  rotate: false
+  xy: 747, 282
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+meteorBrown_small2
+  rotate: false
+  xy: 185, 35
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+meteorGrey_small2
+  rotate: false
+  xy: 981, 454
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+meteorBrown_tiny1
+  rotate: false
+  xy: 747, 262
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+meteorGrey_tiny1
+  rotate: false
+  xy: 981, 434
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+meteorBrown_tiny2
+  rotate: false
+  xy: 1, 1
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+meteorGrey_tiny2
+  rotate: false
+  xy: 747, 245
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1

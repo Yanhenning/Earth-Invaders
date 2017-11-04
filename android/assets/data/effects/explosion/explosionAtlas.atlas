@@ -1,0 +1,68 @@
+
+explosionAtlas.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+explosion
+  rotate: false
+  xy: 1, 1259
+  size: 634, 585
+  orig: 634, 585
+  offset: 0, 0
+  index: 1
+explosion
+  rotate: false
+  xy: 1, 639
+  size: 600, 618
+  orig: 600, 618
+  offset: 0, 0
+  index: 4
+explosion
+  rotate: false
+  xy: 1, 1
+  size: 574, 636
+  orig: 574, 636
+  offset: 0, 0
+  index: 3
+explosion
+  rotate: false
+  xy: 637, 1254
+  size: 603, 590
+  orig: 603, 590
+  offset: 0, 0
+  index: 8
+explosion
+  rotate: false
+  xy: 1242, 1254
+  size: 583, 590
+  orig: 583, 590
+  offset: 0, 0
+  index: 6
+explosion
+  rotate: false
+  xy: 603, 731
+  size: 634, 521
+  orig: 634, 521
+  offset: 0, 0
+  index: 7
+explosion
+  rotate: false
+  xy: 1239, 726
+  size: 620, 526
+  orig: 620, 526
+  offset: 0, 0
+  index: 2
+explosion
+  rotate: false
+  xy: 603, 193
+  size: 583, 536
+  orig: 583, 536
+  offset: 0, 0
+  index: 0
+explosion
+  rotate: false
+  xy: 1188, 179
+  size: 572, 545
+  orig: 572, 545
+  offset: 0, 0
+  index: 5

@@ -1,0 +1,68 @@
+
+damage.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+playerShip2_damage2
+  rotate: false
+  xy: 0, 0
+  size: 112, 76
+  orig: 112, 76
+  offset: 0, 0
+  index: -1
+playerShip2_damage3
+  rotate: false
+  xy: 112, 0
+  size: 112, 76
+  orig: 112, 76
+  offset: 0, 0
+  index: -1
+playerShip2_damage1
+  rotate: false
+  xy: 224, 0
+  size: 111, 76
+  orig: 111, 76
+  offset: 0, 0
+  index: -1
+playerShip1_damage3
+  rotate: false
+  xy: 335, 0
+  size: 100, 76
+  orig: 100, 76
+  offset: 0, 0
+  index: -1
+playerShip1_damage1
+  rotate: false
+  xy: 435, 0
+  size: 99, 76
+  orig: 99, 76
+  offset: 0, 0
+  index: -1
+playerShip1_damage2
+  rotate: false
+  xy: 534, 0
+  size: 99, 76
+  orig: 99, 76
+  offset: 0, 0
+  index: -1
+playerShip3_damage1
+  rotate: false
+  xy: 633, 0
+  size: 97, 76
+  orig: 97, 76
+  offset: 0, 0
+  index: -1
+playerShip3_damage2
+  rotate: false
+  xy: 730, 0
+  size: 97, 76
+  orig: 97, 76
+  offset: 0, 0
+  index: -1
+playerShip3_damage3
+  rotate: false
+  xy: 827, 0
+  size: 97, 76
+  orig: 97, 76
+  offset: 0, 0
+  index: -1

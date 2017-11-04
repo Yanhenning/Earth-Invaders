@@ -1,0 +1,194 @@
+
+medals.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+shaded_medal1
+  rotate: false
+  xy: 1, 166
+  size: 40, 81
+  orig: 40, 81
+  offset: 0, 0
+  index: -1
+shaded_medal9
+  rotate: false
+  xy: 1, 83
+  size: 40, 81
+  orig: 40, 81
+  offset: 0, 0
+  index: -1
+shaded_medal2
+  rotate: false
+  xy: 43, 167
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+shaded_medal3
+  rotate: false
+  xy: 1, 1
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+shaded_medal4
+  rotate: false
+  xy: 43, 85
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+shaded_medal5
+  rotate: false
+  xy: 85, 167
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+shaded_medal6
+  rotate: false
+  xy: 43, 3
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+shaded_medal7
+  rotate: false
+  xy: 85, 85
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+shaded_medal8
+  rotate: false
+  xy: 127, 167
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+flatshadow_medal1
+  rotate: false
+  xy: 169, 172
+  size: 41, 75
+  orig: 41, 75
+  offset: 0, 0
+  index: -1
+flatshadow_medal2
+  rotate: false
+  xy: 212, 172
+  size: 41, 75
+  orig: 41, 75
+  offset: 0, 0
+  index: -1
+flatshadow_medal3
+  rotate: false
+  xy: 255, 172
+  size: 41, 75
+  orig: 41, 75
+  offset: 0, 0
+  index: -1
+flatshadow_medal4
+  rotate: false
+  xy: 298, 172
+  size: 41, 75
+  orig: 41, 75
+  offset: 0, 0
+  index: -1
+flatshadow_medal5
+  rotate: false
+  xy: 341, 172
+  size: 41, 75
+  orig: 41, 75
+  offset: 0, 0
+  index: -1
+flatshadow_medal6
+  rotate: false
+  xy: 384, 172
+  size: 41, 75
+  orig: 41, 75
+  offset: 0, 0
+  index: -1
+flatshadow_medal7
+  rotate: false
+  xy: 427, 172
+  size: 41, 75
+  orig: 41, 75
+  offset: 0, 0
+  index: -1
+flatshadow_medal8
+  rotate: false
+  xy: 470, 172
+  size: 41, 75
+  orig: 41, 75
+  offset: 0, 0
+  index: -1
+flatshadow_medal9
+  rotate: false
+  xy: 85, 8
+  size: 41, 75
+  orig: 41, 75
+  offset: 0, 0
+  index: -1
+flat_medal1
+  rotate: false
+  xy: 127, 91
+  size: 41, 74
+  orig: 41, 74
+  offset: 0, 0
+  index: -1
+flat_medal2
+  rotate: false
+  xy: 170, 96
+  size: 41, 74
+  orig: 41, 74
+  offset: 0, 0
+  index: -1
+flat_medal3
+  rotate: false
+  xy: 213, 96
+  size: 41, 74
+  orig: 41, 74
+  offset: 0, 0
+  index: -1
+flat_medal4
+  rotate: false
+  xy: 256, 96
+  size: 41, 74
+  orig: 41, 74
+  offset: 0, 0
+  index: -1
+flat_medal5
+  rotate: false
+  xy: 299, 96
+  size: 41, 74
+  orig: 41, 74
+  offset: 0, 0
+  index: -1
+flat_medal6
+  rotate: false
+  xy: 342, 96
+  size: 41, 74
+  orig: 41, 74
+  offset: 0, 0
+  index: -1
+flat_medal7
+  rotate: false
+  xy: 385, 96
+  size: 41, 74
+  orig: 41, 74
+  offset: 0, 0
+  index: -1
+flat_medal8
+  rotate: false
+  xy: 428, 96
+  size: 41, 74
+  orig: 41, 74
+  offset: 0, 0
+  index: -1
+flat_medal9
+  rotate: false
+  xy: 128, 15
+  size: 41, 74
+  orig: 41, 74
+  offset: 0, 0
+  index: -1
