@@ -28,6 +28,7 @@ import com.mygdx.game.libgdx.Weapons.LaserExplosion;
 import com.mygdx.game.libgdx.Weapons.MeteorExplosion;
 
 import java.util.Random;
+import java.util.logging.Level;
 
 
 /**
@@ -47,6 +48,24 @@ public class GameScreen implements Screen {
     static final int GAME_PAUSED = 2;
     static final int GAME_LEVEL_END = 3;
     static final int GAME_OVER = 4;
+
+    Float startTime;
+    Boolean started = true;
+    Integer stageDuration = null;
+    static Integer[] stageTime = {
+            1000,1000,1000,2000,10000,10000,10000,10000,10000,10000,
+            10000,10000,10000,10000,10000,10000,10000,10000,10000,10000,
+            10000,10000,10000,10000,10000,10000,10000,10000,10000,10000,
+            10000,10000,10000,10000,10000,10000,10000,10000,10000,10000,
+            10000,10000,10000,10000,10000,10000,10000,10000,10000,10000,
+            10000,10000,10000,10000,10000,10000,10000,10000,10000,10000,
+            10000,10000,10000,10000,10000,10000,10000,10000,10000,10000,
+            10000,10000,10000,10000,10000,10000,10000,10000,10000,10000,
+            10000,10000,10000,10000,10000,10000,10000,10000,10000,10000,
+            10000,10000,10000,10000,10000,10000,10000,10000,10000,10000,
+            10000,10000,10000,10000,10000,10000,10000,10000,10000,10000,
+            10000,10000,10000,10000,10000,10000,10000,10000,10000,10000
+    };
 
     int state;
     float meteorAccumulator = 0.0f;
@@ -78,12 +97,14 @@ public class GameScreen implements Screen {
     private Array<Laser> lasers;
     private Array<MeteorExplosion> meteorExplosions;
 
+    private Integer level;
 
     Box2DDebugRenderer debugRender;
 
-    public GameScreen(final MyGdxGame gam){
+    public GameScreen(final MyGdxGame gam, Integer level){
 
         this.game = gam;
+        this.level = level;
         state = GAME_READY;
         camera = new OrthographicCamera();
         viewport = new ExtendViewport(50, 50, camera);
@@ -119,6 +140,7 @@ public class GameScreen implements Screen {
         lasers = new Array<Laser>();
         meteorExplosions = new Array<MeteorExplosion>();
         accX = game.playerSave.accX;
+        stageDuration = stageTime[level-1];
     }
 
 
@@ -129,6 +151,11 @@ public class GameScreen implements Screen {
 
     @Override
     public void render(float delta) {
+
+        if(started){
+            startTime = Gdx.graphics.getDeltaTime();
+            started = false;
+        }
 
         if (hud.gameState == 2)
             state = GAME_PAUSED;
@@ -289,7 +316,9 @@ public class GameScreen implements Screen {
 
     private void updateHudWithPlayerInfo(){
         hud.score = player.score;
-        hud.addScore();
+        //hud.addScore();
+        hud.score2 = stageDuration;
+        hud.addScore2();
         hud.changeLife(player.life);
 
 
@@ -307,7 +336,7 @@ public class GameScreen implements Screen {
             float expNextLevel = game.playerExperience.get(game.playerSave.playerLevel);
             if (game.playerSave.playerExpirience >= expNextLevel) game.playerSave.playerLevel += 1;
             game.saveToCloud();
-            game.setScreen(new GameOverScreen(game, player.score));
+            game.setScreen(new GameOverScreen(game, player.score, level));
         }
         isPlayerOnScreen();
     }
@@ -400,6 +429,7 @@ public class GameScreen implements Screen {
         updateHudWithPlayerInfo();
         updateLasers();
         updateLaserExplosions(dt);
+        updateGame();
     }
 
 
@@ -440,4 +470,17 @@ public class GameScreen implements Screen {
         }
     }
 
+
+    void updateGame(){
+        if(stageDuration!= null){
+            stageDuration-=1;
+            if(stageDuration <= 0){
+                if(level == game.playerSave.stage){
+                    game.playerSave.stage += 1;
+                }
+                updatePlayer();
+                game.setScreen(new LevelScreen(game));
+            }
+        }
+    }
 }

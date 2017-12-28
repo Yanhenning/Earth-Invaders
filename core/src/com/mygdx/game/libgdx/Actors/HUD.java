@@ -48,6 +48,7 @@ public class HUD {
     Label playerLifeCount;
     Button buttonPause;
 
+    public Integer score2 = 0;
 
     public HUD(SpriteBatch spriteBatch, final com.mygdx.game.libgdx.Screens.MyGdxGame game){
         worldTimer = 300;
@@ -187,6 +188,11 @@ public class HUD {
 
 
     }
+
+    public void addScore2(){
+        scoreLabel.setText(String.format("%06d", score2));
+    }
+
 
     public void addScore(){
         //score+=1;

@@ -45,12 +45,14 @@ public class GameOverScreen implements Screen {
     TextButton submitHighScore;
     Label scoreLabel;
     Label gameOver;
+    Integer level;
 
     InputMultiplexer inputMultiplexer;
 
-    public GameOverScreen(MyGdxGame game, int score) {
+    public GameOverScreen(MyGdxGame game, int score, int level) {
         this.game = game;
         this.score = score;
+        this.level = level;
         stage = new Stage();
         camera = new OrthographicCamera();
         camera.setToOrtho(false, CAM_WIDHT, CAM_HEIGHT);
@@ -143,7 +145,7 @@ public class GameOverScreen implements Screen {
             @Override
             public void changed(ChangeEvent event, Actor actor) {
                 game.playClick();
-                game.setScreen(new GameScreen(game));
+                game.setScreen(new GameScreen(game, level));
             }
         });
 
